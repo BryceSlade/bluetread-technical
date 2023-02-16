@@ -7,4 +7,4 @@ Some technologies used:
 - Material UI
 
 API used:
-- weatherapi.com
+- https://nelson-weather-api.herokuapp.com (proxy server to weatherapi.com)
