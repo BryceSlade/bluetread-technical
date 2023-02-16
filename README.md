@@ -5,3 +5,6 @@ Some technologies used:
 - ReactQuery
 - ReactHookForm
 - Material UI
+
+API used:
+- weatherapi.com
